@@ -60,8 +60,12 @@ and exploring practical AI-powered applications.
   - Collaborated with a team to develop a solution under time constraints.
 
 
-📍 Hyderabad, India
 
-📫 Connect with me:
+## 🤝 Connect With Me
+
+- **GitHub:** [Bavesha-Prasad](https://github.com/Bavesha-Prasad)
 - LinkedIn: [https://www.linkedin.com/in/bavesha-prasad-aitha-98b9362a0?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - Email: [baveshaprasad424@gmail.com]
+
+📍 Hyderabad, India
+
