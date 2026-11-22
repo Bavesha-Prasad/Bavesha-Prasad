@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bavesha Prasad Aitha 👋
 
-<!--
-**Bavesha-Prasad/Bavesha-Prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) student at KMIT | 2027
 
-Here are some ideas to get you started:
+I'm interested in building software solutions that combine
+software development, AI, and practical problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Backend Development
+- Data Structures and Algorithms
+
+🌱 Currently improving my skills in software development
+and exploring practical AI-powered applications.
+
+📍 Hyderabad, India
+
+📫 Connect with me:
+- LinkedIn: [https://www.linkedin.com/in/bavesha-prasad-aitha-98b9362a0?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- Email: [baveshaprasad424@gmail.com]
