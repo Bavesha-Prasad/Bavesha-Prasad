@@ -49,6 +49,10 @@ and exploring practical AI-powered applications.
 
 
 ## 🚀 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=My+Featured+Projects;Building+AI-Powered+Solutions;Turning+Ideas+Into+Reality" />
+</p>
+
 
 ### 1. Healthcare Insurance Risk Prediction & Recommendation System
 [View Repository](https://github.com/Bavesha-Prasad/CustomerHealth)
@@ -61,9 +65,6 @@ and exploring practical AI-powered applications.
 
 **Technologies:** Python, Java, React.js, ANN, MongoDB
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=My+Featured+Projects;Building+AI-Powered+Solutions;Turning+Ideas+Into+Reality" />
-</p>
 
 ### 2. SmartDocQ – Intelligent Document Query & Summarization System
 [View Repository](https://github.com/Bavesha-Prasad/SmartDocumentation)
@@ -75,9 +76,6 @@ and exploring practical AI-powered applications.
 
 **Technologies:** React.js, Python, FastAPI, MongoDB, FAISS, RAG
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=My+Featured+Projects;Building+AI-Powered+Solutions;Turning+Ideas+Into+Reality" />
-</p>
 
 ## 🏆 Achievements
 
