@@ -5,6 +5,17 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Solutions" />
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Developer coding animation"/>
+</p>
+
+
+
 🎓 B.Tech CSE (Data Science) student at KMIT | 2027
 
 I'm interested in building software solutions that combine
@@ -32,6 +43,14 @@ and exploring practical AI-powered applications.
 **Cloud & DevOps:** AWS (EC2, EFS, EBS, S3), Git, Git Actions
 
 **AI & Machine Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)
+
+
+## ⚡ Technologies I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,react,fastapi,nodejs,mysql,mongodb,aws,git,github" />
+</p>
+
 
 
 ## 🚀 Featured Projects
@@ -73,4 +92,8 @@ and exploring practical AI-powered applications.
 - Email: [baveshaprasad424@gmail.com]
 
 📍 Hyderabad, India
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bavesha-Prasad&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" />
+</p>
 
