@@ -52,6 +52,13 @@ and exploring practical AI-powered applications.
 
 **Technologies:** React.js, Python, FastAPI, MongoDB, FAISS, RAG
 
+## 🏆 Achievements
+
+- 🥈 **2nd Place – HackWave 2025**
+  - Secured 2nd place among 70 participating teams.
+  - Participated in a 24-hour offline hackathon hosted by SNIST.
+  - Collaborated with a team to develop a solution under time constraints.
+
 
 📍 Hyderabad, India
 
