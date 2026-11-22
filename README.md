@@ -1,5 +1,10 @@
 # Hi, I'm Bavesha Prasad Aitha 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Solutions" alt="Typing SVG" />
+</p>
+
+
 🎓 B.Tech CSE (Data Science) student at KMIT | 2027
 
 I'm interested in building software solutions that combine
