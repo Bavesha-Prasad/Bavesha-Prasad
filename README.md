@@ -29,6 +29,10 @@ and exploring practical AI-powered applications.
   <img src="https://user-images.githubusercontent.com/74038190/216656972-8b5c8a0b-2b4e-4e4c-9f8b-8b1e8f8e7f6e.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00D4FF,50:7B2FF7,100:00D4FF&animation=twinkling&section=header" width="100%" />
+</p>
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java
