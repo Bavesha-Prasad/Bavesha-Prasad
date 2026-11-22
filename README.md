@@ -28,6 +28,31 @@ and exploring practical AI-powered applications.
 
 **AI & Machine Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)
 
+
+## 🚀 Featured Projects
+
+### 1. Healthcare Insurance Risk Prediction & Recommendation System
+[View Repository](https://github.com/Bavesha-Prasad/CustomerHealth)
+
+- Developed an AI-powered platform to analyze customer health and demographic information and predict potential health risks using an Artificial Neural Network (ANN).
+- Implemented a risk prediction workflow to classify customers into different risk categories.
+- Developed an insurance recommendation mechanism based on predicted risk categories.
+- Built interactive dashboards to visualize customer demographics and risk analysis.
+- Integrated the machine learning workflow with the frontend through backend APIs.
+
+**Technologies:** Python, Java, React.js, ANN, MongoDB
+
+### 2. SmartDocQ – Intelligent Document Query & Summarization System
+[View Repository](https://github.com/Bavesha-Prasad/SmartDocumentation)
+
+- Developed an intelligent document assistant that enables users to upload documents and retrieve information through natural-language queries.
+- Implemented document text extraction and chunking for PDF, DOCX, and TXT files.
+- Used semantic embeddings and FAISS for similarity-based document retrieval.
+- Integrated a Retrieval-Augmented Generation (RAG) pipeline to generate context-aware responses.
+
+**Technologies:** React.js, Python, FastAPI, MongoDB, FAISS, RAG
+
+
 📍 Hyderabad, India
 
 📫 Connect with me:
