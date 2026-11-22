@@ -1,8 +1,4 @@
 # Hi, I'm Bavesha Prasad Aitha 👋 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Solutions" />
