@@ -14,6 +14,20 @@ software development, AI, and practical problem-solving.
 🌱 Currently improving my skills in software development
 and exploring practical AI-powered applications.
 
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java
+
+**Backend:** FastAPI, Express.js, REST APIs, WebSockets
+
+**Frontend:** React.js, HTML5, CSS3
+
+**Database:** MySQL, MongoDB
+
+**Cloud & DevOps:** AWS (EC2, EFS, EBS, S3), Git, Git Actions
+
+**AI & Machine Learning:** Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN)
+
 📍 Hyderabad, India
 
 📫 Connect with me:
